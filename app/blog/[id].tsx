@@ -13,7 +13,7 @@ const blogs = {
     title: 'Premier blog',
     content:
       'Voici un contenu long détaillé du blog numéro 1...',
-    image: 'https://via.placeholder.com/600x300.png?text=Blog+1',
+    image: 'https://unsplash.com/photos/group-of-people-waving-their-hands-6liebVeAfrY',
     category: 'Spiritualité',
     createdAt: '29 Juil 2025',
     tags: ['#foi', '#prière'],
@@ -22,7 +22,7 @@ const blogs = {
     title: 'Deuxième blog',
     content:
       'Ce blog traite de l’importance des études bibliques...',
-    image: 'https://via.placeholder.com/600x300.png?text=Blog+2',
+    image: 'https://unsplash.com/photos/group-of-people-waving-their-hands-6liebVeAfrY',
     category: 'Études bibliques',
     createdAt: '25 Juil 2025',
     tags: ['#bible', '#évangile'],
